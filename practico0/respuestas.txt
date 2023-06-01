@@ -1,0 +1,14 @@
+PARTE 1: PEQUEÑOS EJEMPLOS
+
+1.a. Ejercicio resta.js. Si el minuendo es 10 y el sustraendo es 2, el programa devuelve el valor 8.
+1.b. Ejercicio multiplicacion.js. Si los 3 números multiplicados entre sí, son 2, 17 y 6, el programa devuelve el valor 204 como producto.
+
+2.a. Ejercicio areaRectangulo.js. EL área de un rectángulo de base 5 cm y altura 3 cm, es 15 cm cuadrados.
+2.a. Ejercicio areaRectangulo.js. EL área de un rectángulo de base 12.5 cm y altura 5.3 cm, es 66.25 cm cuadrados.
+
+3.a. Ejercicio conversionGrados.js. 50 grados Fahrenheit son 10 grados Celsius.
+3.b. Ejercicio conversionGrados.js. 75 grados Fahrenheit son 23,889 grados Celsius.
+
+4.a. Ejercicio promedio3.js. El promedio de los números 5, 7 y 9 es 7.
+4.a. Ejercicio promedio3.js. El promedio de los números -2, -3 y -8 es -4.33.
+4.a. Ejercicio promedio3.js. El promedio de los números -1.2, 5.3 y -3.3 es 0.266.
